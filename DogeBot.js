@@ -80,8 +80,8 @@ const thumb = fs.readFileSync ('./media/dogetb.jpg')
 
 //══════════[ Developer Number ]══════════//
 
-developerNo = '916909137213'
-developerName= '🦄Dream Guy Xeon'
+developerNo = '919778713453'
+developerName= 'Navaneeth🦋🤍'
 
 //══════════[ Apikeys ]══════════//
 //----credit goes to all the respected owner---//
@@ -1468,7 +1468,7 @@ menu =
 ➪ *Premium student :* _1000INR_
 
 \`\`\`OPEN FOR SC :\`\`\`
-➪ *Wanna buy this script? :* _Price: ₹250 (India)_
+➪ *Wanna buy this script? :* _Price: ₹1050 (India)_
 
 For those who want to buy script or interested in any of the above
 Can request, if interested please contact the developer`
@@ -1763,7 +1763,7 @@ break
 //══════════[ INTAKE FEATURES ]══════════//
 /*Help case ?
 just give credit / add in tqtq
---> Xeon*/
+--> Navaneeth🦋🤍*/
 
 case 'asupan':
 case 'asupanloli':
@@ -1806,7 +1806,7 @@ break
 //══════════[ RANDOM GIRL FEATURES ]══════════//
 /*Help case ?
 just give credit / add in tqtq
---> Xeon*/
+--> Navaneeth🦋🤍*/
 
 case 'cecan':
 case 'cogan':
@@ -1843,7 +1843,7 @@ break
 //══════════[ RANDOM TEXT ]══════════//
 /*Help case ?
 just give credit / add in tqtq
---> Xeon*/
+--> Navaneeth🦋🤍*/
 
 case 'pantun2':
 case 'puisi':
@@ -1904,7 +1904,7 @@ break;
 //══════════[ RANDOM IMAGE FEATURES ]══════════//
 /*Help case ?
 just give credit / add in tqtq
---> Xeon*/
+--> Navaneeth🦋🤍*/
 
                 case 'bts':
                 case 'exo':
@@ -2837,7 +2837,7 @@ members_ids.push(mem.jid)
 vcard2 = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + `FN:${ownername}\n`
-+ `ORG: Owner Of Doge Bot ;\n`
++ `ORG: Owner Of Mizuhara Bot ;\n`
 + `TEL;type=CELL;type=VOICE;waid=${owner}:${owner}\n`
 + 'END:VCARD'.trim()
 DogeXeonOP.sendMessage(from, {displayName: `The owner ${botname}`, vcard: vcard2}, contact, 
@@ -2868,7 +2868,7 @@ case 'script':
 case 'sourcode':
 
 scpic = fs.readFileSync('./media/scpic.jpg')
-scsell = `*🐶𝗗𝗼𝗴𝗲 𝗕𝗼𝘁 𝗩𝟯 𝗦𝗰𝗿𝗶𝗽𝘁🐶*\n\n_• 𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A_\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/DGXeon/DogeBot3_\n\n_𝙄𝙛 𝙮𝙤𝙪 𝙬𝙞𝙨𝙝 𝙩𝙤 𝙗𝙪𝙮 𝙪𝙣𝙚𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙨𝙘𝙧𝙞𝙥𝙩 𝙘𝙡𝙞𝙘𝙠 𝙤𝙣 𝙩𝙝𝙚 𝙗𝙪𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙗𝙪𝙩𝙩𝙤𝙣 𝙗𝙚𝙡𝙤𝙬._`
+scsell = `*🦋 Mizuhara Bot 𝗦𝗰𝗿𝗶𝗽𝘁 🤍*\n\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/Navaneethbaburaj/Mizuhara_\n\n_𝙄𝙛 𝙮𝙤𝙪 𝙬𝙞𝙨𝙝 𝙩𝙤 𝙗𝙪𝙮 𝙪𝙣𝙚𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙨𝙘𝙧𝙞𝙥𝙩 𝙘𝙡𝙞𝙘𝙠 𝙤𝙣 𝙩𝙝𝙚 𝙗𝙪𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙗𝙪𝙩𝙩𝙤𝙣 𝙗𝙚𝙡𝙤𝙬._`
 but = [
 { buttonId: `${prefix}rentbot`, buttonText: { displayText: 'BUY SCRIPT 💵' }, type: 1 },
 { buttonId: `${prefix}developer`, buttonText: { displayText: 'DEVELOPER 👨🏼‍💻' }, type: 1 }
@@ -3903,7 +3903,7 @@ watak = body.slice(1)
     "shout you bastard in front of your mom/papa",
     "change the name to i am idiot for 24 hours",
     "slap urself firmly and send the sound of slap through voice note😂",
-    "say i love the bot owner xeon through voice note",
+    "say i love the bot owner navaneeth through voice note",
     "send your gf/bf pic here",
     "make any tiktok dance challenge video and put it on status, u can delete it after 5hrs",
     "breakup with your best friend for 5hrs without telling him/her that its a dare",
